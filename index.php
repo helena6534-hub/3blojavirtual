@@ -17,6 +17,6 @@
          $nomeLoja = "Loja do 3 ano";
          echo "Bem vindo a " . $nomeLoja;
      ?>
-    
+     
 </body>
 </html>
